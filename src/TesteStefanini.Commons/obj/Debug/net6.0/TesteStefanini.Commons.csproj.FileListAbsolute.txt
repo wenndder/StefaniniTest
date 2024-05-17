@@ -1,0 +1,15 @@
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\bin\Debug\net6.0\TesteStefanini.Commons.deps.json
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\bin\Debug\net6.0\TesteStefanini.Commons.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\bin\Debug\net6.0\TesteStefanini.Commons.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\bin\Debug\net6.0\TesteStefanini.Domain.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\bin\Debug\net6.0\TesteStefanini.Domain.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteStefanini.Commons.csproj.AssemblyReference.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteStefanini.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteStefanini.Commons.AssemblyInfoInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteStefanini.Commons.AssemblyInfo.cs
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteStefanini.Commons.csproj.CoreCompileInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteSte.1EEFA36A.Up2Date
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteStefanini.Commons.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\refint\TesteStefanini.Commons.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\TesteStefanini.Commons.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Commons\obj\Debug\net6.0\ref\TesteStefanini.Commons.dll

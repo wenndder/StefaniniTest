@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TesteStefanini.Commons/1.0.0": {
+        "dependencies": {
+          "TesteStefanini.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TesteStefanini.Commons.dll": {}
+        }
+      },
+      "TesteStefanini.Domain/1.0.0": {
+        "runtime": {
+          "TesteStefanini.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteStefanini.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteStefanini.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

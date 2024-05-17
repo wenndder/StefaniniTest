@@ -1,0 +1,6 @@
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Api\obj\Debug\net6.0\TesteStefanini.Api.csproj.AssemblyReference.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Api\obj\Debug\net6.0\TesteStefanini.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Api\obj\Debug\net6.0\TesteStefanini.Api.AssemblyInfoInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Api\obj\Debug\net6.0\TesteStefanini.Api.AssemblyInfo.cs
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Api\obj\Debug\net6.0\TesteStefanini.Api.csproj.CoreCompileInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Api\obj\Debug\net6.0\TesteStefanini.Api.MvcApplicationPartsAssemblyInfo.cache

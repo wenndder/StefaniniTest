@@ -1,0 +1,17 @@
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\bin\Debug\net6.0\TesteStefanini.Application.deps.json
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\bin\Debug\net6.0\TesteStefanini.Application.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\bin\Debug\net6.0\TesteStefanini.Application.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\bin\Debug\net6.0\TesteStefanini.Commons.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\bin\Debug\net6.0\TesteStefanini.Domain.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\bin\Debug\net6.0\TesteStefanini.Commons.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\bin\Debug\net6.0\TesteStefanini.Domain.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteStefanini.Application.csproj.AssemblyReference.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteStefanini.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteStefanini.Application.AssemblyInfoInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteStefanini.Application.AssemblyInfo.cs
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteStefanini.Application.csproj.CoreCompileInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteSte.991719B4.Up2Date
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteStefanini.Application.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\refint\TesteStefanini.Application.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\TesteStefanini.Application.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Application\obj\Debug\net6.0\ref\TesteStefanini.Application.dll

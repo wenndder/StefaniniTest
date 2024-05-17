@@ -1,0 +1,11 @@
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\bin\Debug\net6.0\TesteStefanini.Domain.deps.json
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\bin\Debug\net6.0\TesteStefanini.Domain.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\bin\Debug\net6.0\TesteStefanini.Domain.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\TesteStefanini.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\TesteStefanini.Domain.AssemblyInfoInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\TesteStefanini.Domain.AssemblyInfo.cs
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\TesteStefanini.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\TesteStefanini.Domain.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\refint\TesteStefanini.Domain.dll
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\TesteStefanini.Domain.pdb
+C:\Users\dwisidoro\OneDrive - Stefanini\Desktop\TesteStefanini\src\TesteStefanini.Domain\obj\Debug\net6.0\ref\TesteStefanini.Domain.dll

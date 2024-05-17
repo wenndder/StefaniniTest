@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.IoC\\TesteStefanini.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Application\\TesteStefanini.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Application\\TesteStefanini.Application.csproj",
+        "projectName": "TesteStefanini.Application",
+        "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Application\\TesteStefanini.Application.csproj",
+        "packagesPath": "C:\\Users\\dwisidoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dwisidoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\TesteStefanini.Commons.csproj": {
+                "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\TesteStefanini.Commons.csproj"
+              },
+              "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj": {
+                "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\TesteStefanini.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\TesteStefanini.Commons.csproj",
+        "projectName": "TesteStefanini.Commons",
+        "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\TesteStefanini.Commons.csproj",
+        "packagesPath": "C:\\Users\\dwisidoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dwisidoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj": {
+                "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Data\\TesteStefanini.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Data\\TesteStefanini.Data.csproj",
+        "projectName": "TesteStefanini.Data",
+        "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Data\\TesteStefanini.Data.csproj",
+        "packagesPath": "C:\\Users\\dwisidoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dwisidoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj": {
+                "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj",
+        "projectName": "TesteStefanini.Domain",
+        "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\TesteStefanini.Domain.csproj",
+        "packagesPath": "C:\\Users\\dwisidoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dwisidoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.IoC\\TesteStefanini.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.IoC\\TesteStefanini.IoC.csproj",
+        "projectName": "TesteStefanini.IoC",
+        "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.IoC\\TesteStefanini.IoC.csproj",
+        "packagesPath": "C:\\Users\\dwisidoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dwisidoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Application\\TesteStefanini.Application.csproj": {
+                "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Application\\TesteStefanini.Application.csproj"
+              },
+              "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\TesteStefanini.Commons.csproj": {
+                "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Commons\\TesteStefanini.Commons.csproj"
+              },
+              "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Data\\TesteStefanini.Data.csproj": {
+                "projectPath": "C:\\Users\\dwisidoro\\OneDrive - Stefanini\\Desktop\\TesteStefanini\\src\\TesteStefanini.Data\\TesteStefanini.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
